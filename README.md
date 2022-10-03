@@ -25,4 +25,5 @@ How to use VMs with Vagrant
 - Run vagrant up and provisioning your virtual machine
 
 What does the command uname do
+
 Print certain system information.
